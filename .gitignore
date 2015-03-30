@@ -2,7 +2,7 @@
 # Eclipse
 .classpath
 .project
-.setttings/
+.settings
 # Maven
 log/
 target/
